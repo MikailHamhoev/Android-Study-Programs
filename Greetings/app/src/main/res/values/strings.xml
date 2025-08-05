@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greetings</string>
+    <string name="empty_input_message">Please enter your name</string>
+    <string name="button">Press me</string>
+    <string name="hint">Enter your name here</string>
+    <string name="greetings">Hello, %s!</string>
+</resources>
