@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kelvintocelsius</string>
+    <string name="button_convert">CONVERT</string>
+    <string name="empty_input_message">Please enter the temperature in Kelvin</string>
+    <string name="Enter_temperature">Enter Kelvin</string>
+</resources>
