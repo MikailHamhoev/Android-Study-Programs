@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seekbar</string>
+    <string name="task">Please rate the movie</string>
+    <string name="initial_text"></string>
+</resources>
