@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radiobutton</string>
+    <string name="text_view_question">Which number is odd?</string>
+    <string name="option1">4 - four</string>
+    <string name="option2">8 - eight</string>
+    <string name="option3">3 - three</string>
+</resources>
