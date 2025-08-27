@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="question">Which programming languages do you know?</string>
+    <string name="option1">Pascal</string>
+    <string name="option2">Java</string>
+    <string name="option3">Kotlin</string>
+</resources>
